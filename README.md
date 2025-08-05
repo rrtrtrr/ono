@@ -1,1 +1,1 @@
-https://github.com/rrtrtrr/ono-fd
+https://github.com/rrtrtrr/ono
